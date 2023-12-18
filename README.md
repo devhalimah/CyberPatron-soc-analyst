@@ -41,5 +41,6 @@ A repository containing all learning materials for the soc analyst and networkin
     <b>YouTube Videos: </b>
     <li><b>Playlist 1: </b><a href="https://youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ&si=jw_-j2ZbuW66Xjxc">https://youtube.com/playlist?list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ&si=jw_-j2ZbuW66Xjxc</a></li>
   </ul>
+<b>Online PCAP analyzer: </b><a href="https://lab.dynamite.ai/">https://lab.dynamite.ai/</a>
 </p>
 ------------------------------------------------------
